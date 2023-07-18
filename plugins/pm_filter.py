@@ -1542,8 +1542,6 @@ async def auto_filter(client, msg, spoll=False):
             ]
             for file in files
         ]
-    try:
-        if settings['auto_delete']:
 
     btn.insert(0, [        
         InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{message.from_user.id}")
