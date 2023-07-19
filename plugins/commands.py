@@ -24,8 +24,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('📥 hd new movies 📥', url=f'https://telegram.me/+D7L-rX9lKA43MGRl')
                 ],[
-                    InlineKeyboardButton('porn sex', url=f'https://telegram.me/+Ce98xoyvoLcwYThl')
-                    InlineKeyboardButton('request Gʀᴏᴜᴘ', url=GRP_LNK),
+                    InlineKeyboardButton('porn sex', url=f'https://telegram.me/+Ce98xoyvoLcwYThl'),
+                    InlineKeyboardButton('request Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('🤑 earn money 🤑', url=f'https://telegram.me/jnaneshgowdru')
                   ]]
@@ -49,8 +49,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('📥 hd new movies 📥', url=f'https://telegram.me/+D7L-rX9lKA43MGRl')
                 ],[
-                    InlineKeyboardButton('porn sex', url=f'https://telegram.me/+Ce98xoyvoLcwYThl')
-                    InlineKeyboardButton('request Gʀᴏᴜᴘ', url=GRP_LNK),
+                    InlineKeyboardButton('porn sex', url=f'https://telegram.me/+Ce98xoyvoLcwYThl'),
+                    InlineKeyboardButton('request Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('🤑 earn money 🤑', url=f'https://telegram.me/jnaneshgowdru')
                   ]]
@@ -94,8 +94,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('📥 hd new movies 📥', url=f'https://telegram.me/+D7L-rX9lKA43MGRl')
                 ],[
-                    InlineKeyboardButton('porn sex', url=f'https://telegram.me/+Ce98xoyvoLcwYThl')
-                    InlineKeyboardButton('request Gʀᴏᴜᴘ', url=GRP_LNK),
+                    InlineKeyboardButton('porn sex', url=f'https://telegram.me/+Ce98xoyvoLcwYThl'),
+                    InlineKeyboardButton('request Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('🤑 earn money 🤑', url=f'https://telegram.me/jnaneshgowdru')
                   ]]
