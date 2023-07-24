@@ -189,20 +189,15 @@ Nᴀᴍᴇ - {}"""
 𝗡𝗮𝗺𝗲 <b>: {}</b>
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
-
-    CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
+    
+    CAPTION = """<b>📂 Fɪʟᴇɴᴀᴍᴇ : </b> <code>{file_name}</code>
+\n\n✿ <em>File Size</em>: <code>{file_size}</code>
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ new movies : <a href="https://t.me/+D7L-rX9lKA43MGRl">new movies</a>
+▫️ sex video : <a href="https://t.me/+Ce98xoyvoLcwYThl">sex video</a>
 =========== • ✠ • ===========</b>"""
-
+        
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
